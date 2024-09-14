@@ -1,5 +1,5 @@
 # Epip-Installation
-
+---
 ## Step 1: Install Script Extender
 
 1. **Download the Script Extender**  
@@ -12,8 +12,8 @@
      - GOG: `C:\Program Files (x86)\GOG Galaxy\Games\Divinity - Original Sin 2\DefEd\bin`
 
 ---
-
 ## Step 2: Install Epip
+### Website: [Epip](https://www.pinewood.team/epip/patchnotes/)
 
 1. **Download ScriptExtenderUpdaterConfig**  
    [Download Config File](https://www.pinewood.team/epip/ScriptExtenderUpdaterConfig.json)  
