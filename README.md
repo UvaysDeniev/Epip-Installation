@@ -20,6 +20,7 @@ Website: [Epip](https://www.pinewood.team/epip/patchnotes/)
    * Extract this file to the same location where you installed `DXGI.dll` (the Script Extender).
 
 *how it looks on the website*
+
 ![image](https://github.com/user-attachments/assets/7458ff36-69ef-4e8d-94f6-827151e2f0e7)
 
 2. **Download and Install Epip Mod**  
@@ -28,6 +29,7 @@ Website: [Epip](https://www.pinewood.team/epip/patchnotes/)
      `\Documents\Larian Studios\Divinity Original Sin 2 Definitive Edition\Mods`
 
 *how it looks on the website*
+
 ![image](https://github.com/user-attachments/assets/5a2b2148-4b60-4314-8f73-d708b5620bca)
 
 3. **Load the Game**  
