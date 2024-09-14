@@ -24,6 +24,7 @@
    [Google Drive Link](https://drive.google.com/file/d/1ET1BPwS52uf46PKLrnxjIEhI1mHxDr-X/view?usp=sharing)  
    * Extract the contents to:  
      `\Documents\Larian Studios\Divinity Original Sin 2 Definitive Edition\Mods`
+![image](https://github.com/user-attachments/assets/5a2b2148-4b60-4314-8f73-d708b5620bca)
 
 3. **Load the Game**  
    * Start the game and run at least one round.
