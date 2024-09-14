@@ -18,6 +18,7 @@
 1. **Download ScriptExtenderUpdaterConfig**  
    [Download Config File](https://www.pinewood.team/epip/ScriptExtenderUpdaterConfig.json)  
    * Extract this file to the same location where you installed `DXGI.dll` (the Script Extender).
+![image](https://github.com/user-attachments/assets/7458ff36-69ef-4e8d-94f6-827151e2f0e7)
 
 2. **Download and Install Epip Mod**  
    [Google Drive Link](https://drive.google.com/file/d/1ET1BPwS52uf46PKLrnxjIEhI1mHxDr-X/view?usp=sharing)  
