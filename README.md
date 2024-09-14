@@ -45,5 +45,3 @@
 - **Auto-Unlock Inventory**: ON
 
 ---
-
-This version enhances clarity by grouping related steps and using concise phrasing for easy follow-through.
