@@ -5,6 +5,7 @@
 1. **Download the Script Extender**  
    [GitHub Link](https://github.com/Norbyte/ositools/releases)  
    * Download the latest release.
+![image](https://github.com/user-attachments/assets/e2452751-cc92-43ec-b3bf-d411c508ca9a)
 
 2. **Extract DXGI.dll**  
    * Extract the `DXGI.dll` file to the following directory based on your installation platform:
