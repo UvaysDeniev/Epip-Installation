@@ -1,9 +1,5 @@
 # Epip-Installation
 
-To make the instructions more readable and organized, you can break it down into clear sections with headings, bullet points, and concise steps. Here's a more optimized version:
-
----
-
 ## Step 1: Install Script Extender
 
 1. **Download the Script Extender**  
