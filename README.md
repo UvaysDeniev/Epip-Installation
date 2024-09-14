@@ -14,7 +14,7 @@
 
 ---
 ## Step 2: Install Epip
-### Website: [Epip](https://www.pinewood.team/epip/patchnotes/)
+**Website: [Epip](https://www.pinewood.team/epip/patchnotes/)**
 
 1. **Download ScriptExtenderUpdaterConfig**  
    [Download Config File](https://www.pinewood.team/epip/ScriptExtenderUpdaterConfig.json)  
