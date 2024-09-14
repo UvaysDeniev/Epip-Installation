@@ -1,4 +1,4 @@
-# Epip-Installation
+# Epip-Installation for Divinity Orignal Sin 2: Definitive Edition
 ---
 ## Step 1: Install Script Extender
 
